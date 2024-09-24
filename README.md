@@ -16,11 +16,11 @@ This Python project automates the process of filling out Google Forms using web 
 ## Prerequisites
 Python 3.x: Make sure you have Python installed on your system.
 Selenium: Install the library using:
-  ``
+  ```
     pip install selenium
     pip install pandas
     pip install Faker
-  ``
+  ```
 WebDriver: Download the appropriate WebDriver for your browser and ensure it is in your system PATH.
 ## Installation
   1. Clone the repository to your local machine:
